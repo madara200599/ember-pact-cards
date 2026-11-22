@@ -1,0 +1,18 @@
+[
+  {
+    "name": "1-title.jpg",
+    "query": "?shot=title&seed=7"
+  },
+  {
+    "name": "2-table.jpg",
+    "query": "?shot=play&seed=7"
+  },
+  {
+    "name": "3-combo.jpg",
+    "query": "?shot=combo&seed=7"
+  },
+  {
+    "name": "4-win.jpg",
+    "query": "?shot=win&seed=7"
+  }
+]
